@@ -1,0 +1,16 @@
+C:\Users\jared\source\repos\ProyectoFinalSe2\ProyectoFinalSe2\bin\Debug\ProyectoFinalSe2.exe.config
+C:\Users\jared\source\repos\ProyectoFinalSe2\ProyectoFinalSe2\bin\Debug\ProyectoFinalSe2.exe
+C:\Users\jared\source\repos\ProyectoFinalSe2\ProyectoFinalSe2\bin\Debug\ProyectoFinalSe2.pdb
+C:\Users\jared\source\repos\ProyectoFinalSe2\ProyectoFinalSe2\obj\Debug\ProyectoFinalSe2.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\ProyectoFinalSe2\ProyectoFinalSe2\obj\Debug\ProyectoFinalSe2.Control.resources
+C:\Users\jared\source\repos\ProyectoFinalSe2\ProyectoFinalSe2\obj\Debug\ProyectoFinalSe2.DialogBoxBaja.resources
+C:\Users\jared\source\repos\ProyectoFinalSe2\ProyectoFinalSe2\obj\Debug\ProyectoFinalSe2.DialogBoxBuscar.resources
+C:\Users\jared\source\repos\ProyectoFinalSe2\ProyectoFinalSe2\obj\Debug\ProyectoFinalSe2.DialogBoxBuscarFecha.resources
+C:\Users\jared\source\repos\ProyectoFinalSe2\ProyectoFinalSe2\obj\Debug\ProyectoFinalSe2.DialogBoxModificar.resources
+C:\Users\jared\source\repos\ProyectoFinalSe2\ProyectoFinalSe2\obj\Debug\ProyectoFinalSe2.Form1.resources
+C:\Users\jared\source\repos\ProyectoFinalSe2\ProyectoFinalSe2\obj\Debug\ProyectoFinalSe2.Properties.Resources.resources
+C:\Users\jared\source\repos\ProyectoFinalSe2\ProyectoFinalSe2\obj\Debug\ProyectoFinalSe2.Venta.resources
+C:\Users\jared\source\repos\ProyectoFinalSe2\ProyectoFinalSe2\obj\Debug\ProyectoFinalSe2.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\ProyectoFinalSe2\ProyectoFinalSe2\obj\Debug\ProyectoFinalSe2.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\ProyectoFinalSe2\ProyectoFinalSe2\obj\Debug\ProyectoFinalSe2.exe
+C:\Users\jared\source\repos\ProyectoFinalSe2\ProyectoFinalSe2\obj\Debug\ProyectoFinalSe2.pdb
